@@ -1,0 +1,22 @@
+body {
+	background-color: black;
+}
+
+.section1{
+	height: 700px;
+	width: 1430px;
+	background-color: white;
+
+}
+
+.line{
+	width: 10px;
+	background-color: white;
+	position: relative;
+	display: table-cell;
+	border-left: 2px;
+	/*border-style: solid;*/
+	border-left-style: solid;
+	border-right-style: solid;
+	border-color: #f7786b;
+}
